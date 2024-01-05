@@ -1,7 +1,8 @@
 repo_name: ayungavis/arkademy-one
-report_id: 190fbebc5ead33b03a2d2d9103815ae7
+report_id: 4f832d70dc0fd7ef2aeceb067a376b3d
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:20:14+00:00'
+timestamp: '2024-01-05T08:33:26+00:00'
 requested_by: ayungavis
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/ayungavis/arkademy-one
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/ayungavis/arkademy-one
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/ayungavis/arkademy-one/blob/master/db.sql
   detection_source: db.sql
   last_updated_by: Ayung Avis
   last_updated_on: 2019-01-05 13:41:34.000000000 Z
@@ -46,4 +50,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ayungavis/arkademy-one
   detection_source: Repo Metadata
